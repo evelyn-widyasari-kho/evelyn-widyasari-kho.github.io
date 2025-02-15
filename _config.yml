@@ -1,4 +1,5 @@
-baseurl: '/'
+baseurl: ''
+url: https://evelyn-widyasari-kho.github.io
 permalink: pretty
 title: 'Jekyll Serif'
 
