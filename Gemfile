@@ -1,6 +1,12 @@
 source "https://rubygems.org"
 
-gem "webrick", "~> 1.7"
-# gem "jekyll", "~> 4.3"
-gem "jekyll-environment-variables"
 gem "github-pages", group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem "jekyll-environment-variables"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-github-metadata"
+end
+
+gem "webrick", "~> 1.7"
