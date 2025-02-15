@@ -39,6 +39,9 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
@@ -51,3 +54,6 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+repository: evelyn-widyasari-kho/evelyn-widyasari-kho.github.io
+github: [metadata]
