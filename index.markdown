@@ -10,4 +10,6 @@ title: Welcome to My Website
 
 This is my personal Jekyll site where I share my thoughts and projects.
 
+## Hello World
+
 [Learn more about me](/about/)
